@@ -1,0 +1,9 @@
+1.inicializamos el projecto:
+
+	git init
+
+2. proparar el primer commit
+	
+	git add .
+	
+
