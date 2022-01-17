@@ -5,5 +5,8 @@
 2. proparar el primer commit
 	
 	git add .
-	
+	git commit -m "Primer Commit"
 
+3. recuperar archvos borrados
+
+	git checkout -- .
